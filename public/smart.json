@@ -1,0 +1,127 @@
+{
+    "classA": [
+      {
+        "student_Id": "S101",
+        "name": "John Doe",
+        "scores": 85,
+        "percentage": 85
+      },
+      {
+        "student_Id": "S102",
+        "name": "Jane Smith",
+        "scores": 92,
+        "percentage": 92
+      },
+      {
+        "student_Id": "S103",
+        "name": "Michael Johnson",
+        "scores": 76,
+        "percentage": 76
+      },
+      {
+        "student_Id": "S104",
+        "name": "Emily Davis",
+        "scores": 88,
+        "percentage": 88
+      },
+      {
+        "student_Id": "S105",
+        "name": "William Brown",
+        "scores": 90,
+        "percentage": 90
+      },
+      {
+        "student_Id": "S106",
+        "name": "Olivia Wilson",
+        "scores": 78,
+        "percentage": 78
+      },
+      {
+        "student_Id": "S107",
+        "name": "James Jones",
+        "scores": 82,
+        "percentage": 82
+      },
+      {
+        "student_Id": "S108",
+        "name": "Sophia Garcia",
+        "scores": 95,
+        "percentage": 95
+      },
+      {
+        "student_Id": "S109",
+        "name": "Benjamin Martinez",
+        "scores": 80,
+        "percentage": 80
+      },
+      {
+        "student_Id": "S110",
+        "name": "Charlotte Rodriguez",
+        "scores": 87,
+        "percentage": 87
+      }
+    ],
+    "classB": [
+      {
+        "student_Id": "S111",
+        "name": "Liam Hernandez",
+        "scores": 84,
+        "percentage": 84
+      },
+      {
+        "student_Id": "S112",
+        "name": "Emma Lee",
+        "scores": 93,
+        "percentage": 93
+      },
+      {
+        "student_Id": "S113",
+        "name": "Noah Walker",
+        "scores": 79,
+        "percentage": 79
+      },
+      {
+        "student_Id": "S114",
+        "name": "Ava Hall",
+        "scores": 88,
+        "percentage": 88
+      },
+      {
+        "student_Id": "S115",
+        "name": "Lucas Young",
+        "scores": 91,
+        "percentage": 91
+      },
+      {
+        "student_Id": "S116",
+        "name": "Mia Allen",
+        "scores": 77,
+        "percentage": 77
+      },
+      {
+        "student_Id": "S117",
+        "name": "Ethan King",
+        "scores": 86,
+        "percentage": 86
+      },
+      {
+        "student_Id": "S118",
+        "name": "Isabella Wright",
+        "scores": 94,
+        "percentage": 94
+      },
+      {
+        "student_Id": "S119",
+        "name": "Logan Scott",
+        "scores": 81,
+        "percentage": 81
+      },
+      {
+        "student_Id": "S120",
+        "name": "Amelia Torres",
+        "scores": 89,
+        "percentage": 89
+      }
+    ]
+  }
+  
